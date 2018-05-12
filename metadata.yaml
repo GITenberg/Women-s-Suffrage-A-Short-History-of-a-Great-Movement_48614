@@ -1,4 +1,8 @@
 _repo: Women-s-Suffrage-A-Short-History-of-a-Great-Movement_48614
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48614-h/images/cover.jpg
 creator:
   author:
     agent_name: Fawcett, Millicent Garrett, Dame
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5969
     wikipedia: http://en.wikipedia.org/wiki/Millicent_Fawcett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48614#Women-s-Suffrage-A-Short-History-of-a-Great-Movement
 gutenberg_issued: '2015-03-31'
 gutenberg_type: Text
 identifiers:
